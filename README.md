@@ -1,1 +1,0 @@
-# windows-server-2022-branch-office-infrastructure
